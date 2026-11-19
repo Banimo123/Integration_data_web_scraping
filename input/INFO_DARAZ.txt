@@ -1,0 +1,8 @@
+Produits du groupe : 400
+URLs Daraz exploitables : 320
+
+Répartition par domaine :
+- www.daraz.com.bd: 12
+- www.daraz.com.np: 2
+- www.daraz.lk: 52
+- www.daraz.pk: 254

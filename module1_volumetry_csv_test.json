@@ -1,0 +1,13 @@
+[
+    {
+        "platform_name": "daraz",
+        "total_entities": 320,
+        "total_images": 1379,
+        "min_images_per_entity": 0,
+        "max_images_per_entity": 13,
+        "avg_images_per_entity": 4.31,
+        "median_images_per_entity": 4.0,
+        "single_image_entities_count": 33,
+        "empty_entities_count": 13
+    }
+]

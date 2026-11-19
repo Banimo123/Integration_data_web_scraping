@@ -1,0 +1,29 @@
+{
+  "inventory_json_records": 1379,
+  "products_csv_rows": 320,
+  "sum_nb_images": 1379,
+  "products_with_images": 307,
+  "products_without_images": 13,
+  "unique_product_ids_in_csv": 320,
+  "unique_entity_ids_in_inventory": 307,
+  "entity_ids_not_in_csv": [],
+  "csv_ids_without_inventory_images": [
+    "41",
+    "146",
+    "211",
+    "220",
+    "221",
+    "234",
+    "242",
+    "272",
+    "284",
+    "289",
+    "306",
+    "313",
+    "371"
+  ],
+  "per_product_image_count_mismatches": [],
+  "per_product_url_or_order_mismatches": [],
+  "csv_files_byte_identical": true,
+  "physical_image_files_checked": false
+}
